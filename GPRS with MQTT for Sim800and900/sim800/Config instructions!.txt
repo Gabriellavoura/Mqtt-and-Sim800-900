@@ -1,0 +1,12 @@
+In:
+libraries/PubSubClient/PubSubClient.h
+you have to use those definitions:
+
+// if use sim800 client
+#include "sim800Client.h"
+#define TCPCLIENT sim800Client
+
+// if use arduino_uip or etherclient
+//#include "Client.h"
+//#include "Stream.h"
+//#define TCPCLIENT Client
