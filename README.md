@@ -1,8 +1,6 @@
 ![GitHub release](https://img.shields.io/github/release/qubyte/rubidium.svg) ![GitHub](https://img.shields.io/github/license/mashape/apistatus.svg)
 
-
-
-#Library Mqtt and Sim800/900 for Arduino
+# Library Mqtt and Sim800/900 for Arduino
 Arduino libraries and examples to implement applications with mosquitto mqtt (PubSubClient) and Sim800/900 GPRS.
 
 ### Requirements
