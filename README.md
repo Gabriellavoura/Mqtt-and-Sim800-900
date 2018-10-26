@@ -5,7 +5,8 @@ Arduino libraries and examples to implement applications with mosquitto mqtt (Pu
 
 ### Requirements
 * HardwareSerial.h
-* Arduino Mega/Uno
+* Arduino Mega
+* Arduino UNO (may required some modifications to be able to use this librarie).
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
